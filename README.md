@@ -351,7 +351,7 @@ Check `storage/logs/laravel.log` for detailed error information.
 
 ## 📋 Requirements
 
-- **PHP**: ^8.1
+- **PHP**: ^8.2
 - **Laravel**: ^10.0 || ^11.0  
 - **League/Flysystem**: ^3.0
 

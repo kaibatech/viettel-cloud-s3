@@ -43,7 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Comprehensive logging for debugging
 
 ### Requirements
-- PHP ^8.1
+- PHP ^8.2
 - Laravel ^10.0 || ^11.0
 - League/Flysystem ^3.0
 
