@@ -5,6 +5,23 @@ All notable changes to `kaibatech/viettel-cloud-s3` will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2025-01-30
+
+### Added
+- Support for Laravel 12.x compatibility
+- Support for PHPUnit ^11.0 compatibility  
+- Support for Orchestra Testbench ^10.0 for Laravel 12 testing
+
+### Updated
+- Updated GitHub Actions workflow to test Laravel 12 compatibility
+- Extended compatibility matrix to include Laravel 10.x, 11.x, and 12.x
+- Updated requirements to support Laravel ^10.0 || ^11.0 || ^12.0
+
+### Requirements
+- PHP ^8.2
+- Laravel ^10.0 || ^11.0 || ^12.0
+- League/Flysystem ^3.0
+
 ## [1.0.0] - 2025-05-26
 
 ### Added

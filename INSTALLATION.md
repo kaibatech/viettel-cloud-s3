@@ -5,7 +5,7 @@ This guide will walk you through installing and configuring the **Viettel Cloud 
 ## Prerequisites
 
 - **PHP**: 8.2 or higher
-- **Laravel**: 10.x or 11.x
+- **Laravel**: 10.x, 11.x or 12.x
 - **Composer**: Latest version
 - **Viettel Cloud Storage Credentials**: Access key, secret key, and endpoint
 

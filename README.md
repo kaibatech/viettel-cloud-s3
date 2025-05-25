@@ -16,7 +16,7 @@ A Laravel Storage driver for **Viettel Cloud Object Storage** and other **VIPCor
 - ✅ **URL generation** for public file access
 - ✅ **Custom AWS v4 signature calculation** compatible with VIPCore/EMC ViPR
 - ✅ **UNSIGNED-PAYLOAD support** required by some S3-compatible services
-- ✅ **Laravel 10.x & 11.x support**
+- ✅ **Laravel 10.x, 11.x & 12.x support**
 
 ## 🚀 Installation
 
@@ -352,7 +352,7 @@ Check `storage/logs/laravel.log` for detailed error information.
 ## 📋 Requirements
 
 - **PHP**: ^8.2
-- **Laravel**: ^10.0 || ^11.0  
+- **Laravel**: ^10.0 || ^11.0 || ^12.0  
 - **League/Flysystem**: ^3.0
 
 ## 🤝 Contributing
